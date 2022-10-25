@@ -1,9 +1,46 @@
-[
-    {
-        "Manufacturer" : [
-            {"Bugatti" : ["Chiron", "Veyron"]},
-            {"Ferrari" : ["Daytona_SP3", "LaFerrari"]},
-            {"Volvo" : ["V90"]}
-        ]
-    }
-]
+{
+    "Manufacturer" : [
+        {
+            "Bugatti" : [
+                {
+                    "name" : "Chiron",
+                    "topspeed" : 490.484,
+                    "gear" : "temp",
+                    "acceleration" : "temp"
+                },
+                {
+                    "name" : "Veyron",
+                    "topspeed" : 431.072,
+                    "gear" : "temp",
+                    "acceleration" : "temp"
+                }
+            ]
+        },
+        {
+            "Ferrari" : [
+                {
+                    "name" : "Daytona_SP3",
+                    "topspeed" : 345,
+                    "gear" : "temp",
+                    "acceleration" : "temp"
+                },
+                {
+                    "name" : "LaFerrari",
+                    "topspeed" : 350.8,
+                    "gear" : "temp",
+                    "acceleration" : "temp"
+                }
+            ]
+        },
+        {
+            "Volvo" : [
+                {
+                    "name" : "V90",
+                    "topspeed" : 180,
+                    "gear" : "temp",
+                    "acceleration" : "temp"
+                }
+            ]
+        }
+    ]
+}

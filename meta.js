@@ -1,3 +1,4 @@
+/*
 const Bugatti = [Chiron, Veyron]
 const Ferrari = [Daytona_SP3, LaFerrari]
 const Volvo = [V90]
@@ -133,3 +134,4 @@ const V90 = function(){
         acceleration = temp
     }
 }
+*/
