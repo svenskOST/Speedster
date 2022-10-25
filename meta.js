@@ -30,7 +30,7 @@ const Chiron = function(){
 }
 
 const Veyron = function(){
-    var topspeed = temp
+    var topspeed = 431.072
     var gear = [g1, g2, g3, g4, g5, g6, g7]
     var acceleration 
     function g1(){
@@ -57,7 +57,7 @@ const Veyron = function(){
 }
 
 const Daytona_SP3 = function(){
-    var topspeed = temp
+    var topspeed = 345
     var gear = [g1, g2, g3, g4, g5, g6, g7]
     var acceleration 
     function g1(){
@@ -84,7 +84,7 @@ const Daytona_SP3 = function(){
 }
 
 const LaFerrari = function(){
-    var topspeed = temp
+    var topspeed = 350.8
     var gear = [g1, g2, g3, g4, g5, g6, g7]
     var acceleration 
     function g1(){
@@ -111,7 +111,7 @@ const LaFerrari = function(){
 }
 
 const V90 = function(){
-    var topspeed = temp
+    var topspeed = 180
     var gear = [g1, g2, g3, g4, g5, g6]
     var acceleration 
     function g1(){
